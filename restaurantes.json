@@ -1,0 +1,35 @@
+[
+  {
+    "nome": "Temakeria Paulista",
+    "telefone": "(11)2268-0889",
+    "observacao": "Ótimo restaurante japonês com preços justos pela qualidade oferecida",
+    "custoMedio": "40.0",
+    "tipo": "a la carte",
+    "localizacao": {
+      "latitude": "-23.5518563",
+      "longitude": "-46.6376924"
+    }
+  },
+  {
+    "nome": "Si Señor",
+    "telefone": "(11)2659-1106",
+    "observacao": "Restaurante mexicano com boa comida, mas caro.",
+    "custoMedio": "60.0",
+    "tipo": "rodízio",
+    "localizacao": {
+      "latitude": "-23.5488921",
+      "longitude": "-46.6019185"
+    }
+  },
+  {
+    "nome": "Pizzaria Du Frade",
+    "telefone": "(11)2093-7504",
+    "observacao": "Ótima opção de pizza da região, com um bom custo x befefício.",
+    "custoMedio": "35.0",
+    "tipo": "domicílio",
+    "localizacao": {
+      "latitude": "-23.543041",
+      "longitude": "-46.5548531"
+    }
+  }
+]
