@@ -5,10 +5,8 @@
     "observacao": "Ótimo restaurante japonês com preços justos pela qualidade oferecida",
     "custoMedio": "40.0",
     "tipo": "A la carte",
-    "localizacao": {
-      "latitude": "-23.551892",
-      "longitude": "-46.5697637"
-    }
+    "latitude": "-23.551892",
+    "longitude": "-46.5697637"
   },
   {
     "nome": "Si Señor",
@@ -16,10 +14,8 @@
     "observacao": "Restaurante mexicano com boa comida, mas caro.",
     "custoMedio": "60.0",
     "tipo": "Rodízio",
-    "localizacao": {
-      "latitude": "-23.5489029",
-      "longitude": "-46.5690876"
-    }
+    "latitude": "-23.5489029",
+    "longitude": "-46.5690876"
   },
   {
     "nome": "Pizzaria Du Frade",
@@ -27,9 +23,7 @@
     "observacao": "Ótima opção de pizza da região, com um bom custo x befefício.",
     "custoMedio": "35.0",
     "tipo": "Domicílio",
-    "localizacao": {
-      "latitude": "-23.543041",
-      "longitude": "-46.5548531"
-    }
+    "latitude": "-23.543041",
+    "longitude": "-46.5548531" 
   }
 ]
